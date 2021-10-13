@@ -1,4 +1,4 @@
-[![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
+[![](https://github.com/yangchenleon/yangchenalpha/blob/main/img/dino.gif)](https://chromedino.com)
 
 <!---
 - 👋 Hi, I’m @yangchenalpha
